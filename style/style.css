@@ -43,16 +43,35 @@
 i{
     padding:5px;
 }
-.nkkk{ height: 50px;
+.nikk{ height: 50px;
 width: 100px;}
-.nikk{display: flex;
-margin: auto;}
+.image{display: flex;
+margin: auto;
+width: 600px;
+height: 500px;}
 .head{margin-left: 550px;}
 input{display: flex;
       margin: auto;
       padding:10px;
     }
+.nik1{ display: flex;
+        margin: auto;
+ }
 .button{
     display: flex;
     margin: auto;
 }    
+
+.footer{
+    display: flex; 
+   
+}
+.male{ display: flex;
+     margin-left: 650px;
+    }
+.female{
+    display: flex;
+    margin-left: 650px;
+}
+.copy{ margin-left: 500px;} 
+
